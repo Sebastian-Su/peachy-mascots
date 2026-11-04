@@ -1,1 +1,14 @@
-{"schemaVersion":1,"pets":[]}
+{
+  "schemaVersion": 1,
+  "pets": [
+    {
+      "id": "peachmilky",
+      "name": "PeachMilky",
+      "version": "1",
+      "preview": "https://raw.githubusercontent.com/Sebastian-Su/peachy-mascots/main/previews/peachmilky.png",
+      "download": "https://github.com/Sebastian-Su/peachy-mascots/releases/download/peachmilky-v1/peachmilky.zip",
+      "sha256": "0da890335cac7eab5fc3976dc6501e99b00e544ca70ffc2d67a1c1d623a3e7b2",
+      "size": 49667877
+    }
+  ]
+}
