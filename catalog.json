@@ -9,6 +9,15 @@
       "download": "https://github.com/Sebastian-Su/peachy-mascots/releases/download/peachmilky-v1/peachmilky.zip",
       "sha256": "0da890335cac7eab5fc3976dc6501e99b00e544ca70ffc2d67a1c1d623a3e7b2",
       "size": 49667877
+    },
+    {
+      "id": "gothic-maid",
+      "name": "Gothic Maid",
+      "version": "1",
+      "preview": "https://raw.githubusercontent.com/Sebastian-Su/peachy-mascots/main/previews/gothic-maid.png",
+      "download": "https://github.com/Sebastian-Su/peachy-mascots/releases/download/gothic-maid-v1/gothic-maid.zip",
+      "sha256": "a22f766ffbbb5c11ef5150c36a2e3d1adfe93bd8b538515e45fd3da1c5cc8eb5",
+      "size": 79614422
     }
   ]
 }
